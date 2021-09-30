@@ -1,0 +1,62 @@
+1.1.2
+- Upgrade Package
+- Update Ads Scripts
+- Update Editors
+- Update Manual
+
+1.1.1
+- Fix DirtyUtil Script Compatibility
+- Improve Admob Script
+- Update Ads Manager
+
+1.1.0
+- [New] Unity 2017 Support
+
+1.0.9
+- Add 17 Characters
+- Add Cursor Zoom
+- Add AdsManager
+- Admob Integration
+- ChartBoost Integration
+- Unity Ads Integration
+- Manual Update
+
+1.0.8
+- Add Shapes Manager
+- Add Singleton Manager
+- Add Improvements to Zoom Feature
+- Add Crayon Tool
+- Add Sparkle Tool
+- Add 14 Stamps
+- Add Manual Update
+
+1.0.7
+- Add Zoom IN/OUT & Pinch Zoom 
+- Add Screenshot Export/Print for Web only 
+- Manual Update
+
+1.0.6
+- Add Album Scene Slider
+- Add Undo/Redo History
+- Add Lion Character
+- Add Fade Filling
+
+1.0.5
+- Support Most Landscape Screens 
+- Tool Content Click Exception
+
+1.0.4
+- Add Paint Roller Tool
+- Update Tool Component
+
+1.0.3
+- Update the Manual
+
+1.0.2
+- Fix Script Execution Order Bug
+
+1.0.1
+- Fix User Input Issue
+
+1.0.0
+- First release
