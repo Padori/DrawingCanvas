@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637685693289963797
-    m_Hash: 1432519142
+      ticks: 637686597359836472
+    m_Hash: 1861218899
   m_LockFileStatus:
     m_FilePath: D:/Yechan/Unity3d/DrawingCanvas/DrawingProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637685693290304148
-    m_Hash: 2656176529
+      ticks: 637686597374203998
+    m_Hash: 1110411160
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
